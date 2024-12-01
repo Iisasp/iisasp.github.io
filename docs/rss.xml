@@ -1,3 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>一切为空</title><link>https://blog.000.vg</link><description>空即是色，色可不是空。</description><copyright>一切为空</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://blog.000.vg</link></image><lastBuildDate>Sun, 01 Dec 2024 07:46:38 +0000</lastBuildDate><managingEditor>一切为空</managingEditor><ttl>60</ttl><webMaster>一切为空</webMaster><item><title>哪吒探针面板V1安装</title><link>https://blog.000.vg/post/na-zha-tan-zhen-mian-ban-V1-an-zhuang.html</link><description>`curl -L https://raw.githubusercontent.com/nezhahq/scripts/main/install.sh -o nezha.sh &amp;&amp; chmod +x nezha.sh &amp;&amp; sudo ./nezha.sh`&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>一切为空</title><link>https://blog.000.vg</link><description>空即是色，色可不是空。</description><copyright>一切为空</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://blog.000.vg</link></image><lastBuildDate>Sun, 01 Dec 2024 08:03:36 +0000</lastBuildDate><managingEditor>一切为空</managingEditor><ttl>60</ttl><webMaster>一切为空</webMaster><item><title>哪吒探针面板V1安装</title><link>https://blog.000.vg/post/na-zha-tan-zhen-mian-ban-V1-an-zhuang.html</link><description>&gt; [!note]&#13;
+&gt; useful information that users should know, even when skimming content.&#13;
+&#13;
+&gt; [!tip]&#13;
+&gt; helpful advice for doing things better or more easily.&#13;
+&#13;
+&gt; [!important]&#13;
+&gt; key information users need to know to achieve their goal.&#13;
+&#13;
+&gt; [!warning]&#13;
+&gt; urgent info that needs immediate user attention to avoid problems.&#13;
+&#13;
+&gt; [!caution]&#13;
+&gt; advises about risks or negative outcomes of certain actions.&#13;
+&#13;
+`curl -L https://raw.githubusercontent.com/nezhahq/scripts/main/install.sh -o nezha.sh &amp;&amp; chmod +x nezha.sh &amp;&amp; sudo ./nezha.sh`&#13;
 。</description><guid isPermaLink="true">https://blog.000.vg/post/na-zha-tan-zhen-mian-ban-V1-an-zhuang.html</guid><pubDate>Sun, 01 Dec 2024 05:17:03 +0000</pubDate></item></channel></rss>
