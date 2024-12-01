@@ -8,5 +8,7 @@
     "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "email":"0@000.vg",
     "startSite":"01/12/2024",
-    "filingNum":"GitHub"
+    "filingNum":"GitHub",
+    "style":"<style>#postBody{font-size:20px}</style>",
+    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>"  
 }
