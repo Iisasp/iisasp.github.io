@@ -2,13 +2,11 @@
     "title":"一切为空",
     "subTitle":"空即是色，色可不是空。",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
     "displayTitle":"000",
     "homeUrl":"https://blog.000.vg",
     "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "email":"0@000.vg",
     "startSite":"01/12/2024",
-    "filingNum":"GitHub",
-    "onePageListNum":15,
-    "singlePage":["about"]
+    "filingNum":"GitHub"
 }
